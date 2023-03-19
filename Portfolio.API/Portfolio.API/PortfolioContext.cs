@@ -18,7 +18,7 @@ namespace Portfolio.API
         { 
             IConfiguration configuration = new ConfigurationBuilder()
             .SetBasePath(Directory.GetCurrentDirectory())
-            .AddJsonFile("appset.json")
+            .AddJsonFile("appsettings.json")
             .Build();
 
             optionsBuilder.UseSqlServer(configuration.GetConnectionString("ServerConnection"));

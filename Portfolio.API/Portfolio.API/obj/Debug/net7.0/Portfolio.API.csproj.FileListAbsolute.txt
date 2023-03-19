@@ -74,3 +74,9 @@ C:\Users\ju-sh\OneDrive\Área de Trabalho\API VS Studio  YT\Portfolio.API\Portfo
 C:\Users\ju-sh\OneDrive\Área de Trabalho\API VS Studio  YT\Portfolio.API\Portfolio.API\obj\Debug\net7.0\Portfolio.API.pdb
 C:\Users\ju-sh\OneDrive\Área de Trabalho\API VS Studio  YT\Portfolio.API\Portfolio.API\obj\Debug\net7.0\Portfolio.API.genruntimeconfig.cache
 C:\Users\ju-sh\OneDrive\Área de Trabalho\API VS Studio  YT\Portfolio.API\Portfolio.API\obj\Debug\net7.0\ref\Portfolio.API.dll
+C:\Users\ju-sh\OneDrive\Área de Trabalho\API VS Studio  YT\Portfolio.API\Portfolio.API\bin\Debug\net7.0\portofilio-web\angular.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\API VS Studio  YT\Portfolio.API\Portfolio.API\bin\Debug\net7.0\portofilio-web\package-lock.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\API VS Studio  YT\Portfolio.API\Portfolio.API\bin\Debug\net7.0\portofilio-web\package.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\API VS Studio  YT\Portfolio.API\Portfolio.API\bin\Debug\net7.0\portofilio-web\tsconfig.app.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\API VS Studio  YT\Portfolio.API\Portfolio.API\bin\Debug\net7.0\portofilio-web\tsconfig.json
+C:\Users\ju-sh\OneDrive\Área de Trabalho\API VS Studio  YT\Portfolio.API\Portfolio.API\bin\Debug\net7.0\portofilio-web\tsconfig.spec.json

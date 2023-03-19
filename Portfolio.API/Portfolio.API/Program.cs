@@ -23,7 +23,7 @@ app.UseCors(p => p
 .AllowAnyOrigin()
 .AllowAnyMethod());
 
-    //boas práticas no método cria-se o objeto
+    //boas prï¿½ticas no mï¿½todo cria-se o objeto
 app.MapPost("/contacts", async(PortfolioContext context, Contact contact) =>
 {
     //var context = new portfoliocontext << 
@@ -49,7 +49,7 @@ app.MapGet("/contacts", async(PortfolioContext context) =>
 
 app.Run();
 
-public class Contact
+public class Contact    
 {
     public Guid Id { get; set; }
     public string Name { get; set; }
