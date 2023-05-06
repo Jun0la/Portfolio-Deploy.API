@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GrJH9xY+D9qAfrG0OsOaAFIlG8xGQWcKaWRe89xUb5/s760eOYN0qPwjJ9Y3z3hH3S1YrDArJ68BqTOmo+QBzQ==",
+  "dgSpecHash": "COlvsf1PUnpi+Q/7XSQSXj1NcFow1wEdH2eyKSQei3I1w6yRGI7L2Y5jbP3q3cRs16e+0M9ILAO6XZ5GmHKsPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\API VS Studio  YT\\Portfolio.API\\Portfolio.API\\Portfolio.API.csproj",
+  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\API Portfolio YT#\\BACK\\Portfolio.API\\Portfolio.API\\Portfolio.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ju-sh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ju-sh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
